@@ -1,6 +1,6 @@
 # homebrew-xpilot
 
-Homebrew casks for xPilot (experimental)
+Homebrew cask formula for [xPilot](https://beta.xpilot-project.org/#/)
 
 ## Usage
 
@@ -15,3 +15,5 @@ Install the cask:
 ```shell
 brew install xpilot
 ```
+
+(Please note: the xPilot installer is not totally automated, so there is a manual step to perform after running `brew install xpilot`.)
