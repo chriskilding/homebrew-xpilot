@@ -8,7 +8,6 @@ cask "xpilot" do
   name "xPilot"
   desc "Open-source, cross-platform X-Plane pilot client for VATSIM."
   homepage "https://beta.xpilot-project.org/#/"
-  license "GPL-3.0-only"
 
   # xPilot can check for updates and download the latest DMG,
   # but the user must do the final step and run the installer,
